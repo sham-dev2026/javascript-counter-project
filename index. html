@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <title></title>
+</head>
+
+<body>
+  <label id="countlabel">0</label>
+  <div id="btncontainer">
+     
+     <button id="decreaseBtn" class="buttons">decreaseBtn</button>
+     <button id="reastBtn" class="buttons">reastBtn</button>
+     <button id="increaseBtn" class="buttons">increaseBtn</button>
+    
+  </div>
+  <script src="input.js"></script>  
+</body>
+
+</html>
